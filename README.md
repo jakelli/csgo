@@ -1,6 +1,6 @@
 # Jakelli's CS:GO Config
 
-This is my constantly updated CS:GO autoexec config.
+CS:GO autoexec config.
 
 Put *autoexec.cfg* in `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg` or take what you want from it and add to your autoexec config! 
 
@@ -11,16 +11,11 @@ Put *autoexec.cfg* in `...\Steam\steamapps\common\Counter-Strike Global Offensiv
 Enter launch options at `Steam > Library > Counter-Strike: Global Offensive (right-click) > Properties > Set Launch Options...`
 
 ### Other Settings
-+ Windows Sensitivity: 6/11  
++ Windows Sensitivity: 7/11  
 + Mouse DPI: 900  
 + Mouse Polling Rate: 1000hz  
 + 1280x960 4:3 stretch
-+ In-Game Audio Ouput: Headphones  
 
 ### Weapon Loadout
 **CT**: M4A4, USP-S, CZ75-Auto  
 **T**: CZ75-Auto
-
-### Questions?
-I can't recieve notifications for gists so your question or comment may go unanswered for a while.
-Instead you can reach out to me on [Twitter (@jakellli)](https://twitter.com/jakellli)
