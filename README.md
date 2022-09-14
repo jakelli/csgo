@@ -12,10 +12,10 @@ Enter launch options at `Steam > Library > Counter-Strike: Global Offensive (rig
 
 ### Other Settings
 + Windows Sensitivity: 7/11  
-+ Mouse DPI: 900  
++ Mouse DPI: 800  
 + Mouse Polling Rate: 1000hz  
-+ 1280x960 4:3 stretch
++ 1440x1080 4:3 stretch
 
 ### Weapon Loadout
-**CT**: M4A4, USP-S, CZ75-Auto  
-**T**: CZ75-Auto
+**CT**: M4A4, USP-S, Desert Eagle  
+**T**: Desert Eagle
