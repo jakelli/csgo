@@ -1,11 +1,11 @@
 # Common Commands
 To retain any of these settings after closing/reopening CSGO, move the command(s) from this file to `C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`
 ### Table of contents
-- ![Netgraph](#netgraph)
-- ![Hud & Radar](#hud)
-- ![Movement binds](#movement)
-- ![Audio](#audio)
-- ![Faceit](#faceit)
+- [Netgraph](#netgraph)
+- [Hud & Radar](#hud)
+- [Movement binds](#movement)
+- [Audio](#audio)
+- [Faceit](#faceit)
 
 <a name="netgraph"></a>
 
