@@ -22,7 +22,7 @@ alias "-ng" "-showscores; net_graph 0"
 ```
 <a name="hud"></a>
 
-## Team
+## HUD & Radar
 Centers the radar, allowing you to see a majority of the map
 ```
 cl_radar_always_centered
