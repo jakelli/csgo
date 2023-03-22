@@ -10,12 +10,4 @@ Put *autoexec.cfg* in `...\Steam\steamapps\common\Counter-Strike Global Offensiv
 
 Enter launch options at `Steam > Library > Counter-Strike: Global Offensive (right-click) > Properties > Set Launch Options...`
 
-### Other Settings
-+ Windows Sensitivity: 7/11  
-+ Mouse DPI: 800  
-+ Mouse Polling Rate: 1000hz  
-+ 1440x1080 4:3 stretch
-
-### Weapon Loadout
-**CT**: M4A4, USP-S, Desert Eagle  
-**T**: Desert Eagle
+### ![Common Commands](https://github.com/pynacl/csgo/blob/master/common_commands.md)
