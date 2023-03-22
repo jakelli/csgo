@@ -3,7 +3,6 @@ To retain any of these settings after closing/reopening CSGO, move the command(s
 ### Table of contents
 - ![Netgraph](#netgraph)
 - ![Hud & Radar](#hud)
-- ![Team](#Team)
 - ![Movement binds](#movement)
 - ![Audio](#audio)
 - ![Faceit](#faceit)
