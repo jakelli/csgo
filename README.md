@@ -2,7 +2,7 @@
 
 CS:GO autoexec config.
 
-Put *autoexec.cfg* in `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg` or take what you want from it and add to your autoexec config! 
+Put ![autoexec.cfg](https://github.com/pynacl/csgo/blob/master/autoexec.cfg) in `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg` or take what you want from it and add to your autoexec config! 
 
 ### Launch Options
 
